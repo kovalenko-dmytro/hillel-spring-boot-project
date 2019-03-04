@@ -1,0 +1,2 @@
+ALTER TABLE documents
+ADD COLUMN type VARCHAR(50) AFTER title;
